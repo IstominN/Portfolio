@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Tariffs/tariffs.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Tariffs/tariffs.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Tariffs/tariffs.pdf)
+
 ## Задачи проекта:
 
 На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа
