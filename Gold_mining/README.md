@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Gold_mining/gold_mining.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Gold_mining/gold_mining.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Gold_mining/gold_mining.pdf)
+
 ## Задачи проекта:
 
 Спрогнозировать концентрацию золота при проведении процесса очистки золота
