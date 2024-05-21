@@ -1,3 +1,7 @@
+[Проект в Jupiter](//github.com/IstominN/Portfolio/blob/main/Sale_apartments/sale_apartments.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Sale_apartments/sale_apartments.html)
+
+
 ## Задачи проекта:
 
 Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
