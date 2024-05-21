@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Steel_temperature/steel_temperature.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Steel_temperature/steel_temperature.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Steel_temperature/steel_temperature.pdf)
+
 ## Задачи проекта:
 
 Прогноз температуры стали во время плавки
