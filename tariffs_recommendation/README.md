@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/tariffs_recommendation/tariffs_recommendation.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/tariffs_recommendation/tariffs_recommendation.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/tariffs_recommendation/tariffs_recommendation.pdf)
+
 ## Задачи проекта:
 
 На основе данных предложить клиенту тариф.
