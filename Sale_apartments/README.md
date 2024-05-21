@@ -1,4 +1,4 @@
-[Проект в Jupiter](//github.com/IstominN/Portfolio/blob/main/Sale_apartments/sale_apartments.ipynb) <br>
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Sale_apartments/sale_apartments.ipynb) <br>
 [Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Sale_apartments/sale_apartments.html) <br>
 [Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Sale_apartments/sale_apartments.pdf)
 
