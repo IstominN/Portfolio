@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Cost_cars/cost_cars.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Cost_cars/cost_cars.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Cost_cars/cost_cars.pdf)
+
 ## Задачи проекта:
 
 Разработка системы рекомендации стоимости автомобиля на основе его описания
