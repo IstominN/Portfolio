@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Age_determination/age_determination.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Age_determination/age_determination.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Age_determination/age_determination.pdf)
+
 ## Задачи проекта:
 
 Определение возраста по фотографии
