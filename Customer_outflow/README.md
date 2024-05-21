@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Customer_outflow/customer_outflow.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Customer_outflow/customer_outflow.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Customer_outflow/customer_outflow.pdf)
+
 ## Задачи проекта:
 
 На основе данных из банка определить клиента, который может уйти
