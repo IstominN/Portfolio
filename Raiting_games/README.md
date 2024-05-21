@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Raiting_games/raiting_games.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Raiting_games/raiting_games.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Raiting_games/raiting_games.pdf)
+
 ## Задачи проекта:
 
 На основе данных прошлых лет выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
