@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Taxi_orders/taxi_orders.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Taxi_orders/taxi_orders.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Taxi_orders/taxi_orders.pdf)
+
 ## Задачи проекта:
 
 Разработка системы предсказания объема заказа.
