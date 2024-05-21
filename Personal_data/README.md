@@ -1,3 +1,7 @@
+[Проект в Jupyter](//github.com/IstominN/Portfolio/blob/main/Personal_data/personal_data.ipynb) <br>
+[Проект в HTML](//github.com/IstominN/Portfolio/blob/main/Personal_data/personal_data.html) <br>
+[Проект в PDF](//github.com/IstominN/Portfolio/blob/main/Personal_data/personal_data.pdf)
+
 ## Задачи проекта:
 
 Разработка модели анонимизации персональных данных
